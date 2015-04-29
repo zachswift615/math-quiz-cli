@@ -10,8 +10,9 @@ the average time per question and total time of
 quiz.
 
 This project demonstrates the ability to manipulate
-date and time objects in Python, creating a CLI, and
-clean modular, testable code. There are unittests
+date and time objects in Python, creating a CLI, 
+input validation, string manipulation, and clean,
+modular, testable code. There are unittests
 included in the repo. 
 
 
