@@ -1,5 +1,6 @@
 # Python Math Quiz
-A timed math quiz in python with a CLI
+A timed math quiz in python with a CLI.
+
 Each question is timed and once an answer
 is provided, there is instant feedback 
 as to whether it was right or wrong. 
